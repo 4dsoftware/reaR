@@ -14,8 +14,8 @@ _install.packages('C:/Users/4dsoftware/REA_0.1.0.zip', repos = NULL, type = "win
 
 ## Prerequisites
 
-REA requires two packages to be installed with your R environment, rgl and wvtool. They are available on CRAN. To install, for example, 
-install.packages('rgl'). 
+REA requires two packages to be installed with your R environment, rgl and wvtool. They are available on CRAN. To install, simply
+_install.packages('rgl')_ and _install.packages('rgl')_. 
 
 ## Example
 
