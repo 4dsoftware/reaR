@@ -27,6 +27,10 @@ _data = read.csv('pentamidine_chlorpromazine.csv',header=F)_
 
 _ff = rea(data = data,draw = 2)_
 
+## Notes
+
+This R binary has identical structure as the MATLAB version of REA, and they should give identical results. From our tests, they do yield identical results for 4 datasets we have. If you find out a dataset with which the two versions yield different results, please leave a note. 
 
 ## References
 1. Du, D., et al, Response Envelope Analysis for Quantitative Evaluation of Drug Combinations, Bioinformatics, (2019)
+2. https://github.com/4dsoftware/rea
