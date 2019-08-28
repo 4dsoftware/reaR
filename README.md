@@ -9,7 +9,8 @@ This analytical tool enables the determination of drug combination effects (i.e.
 ## Installation
 
 To install reaR function from the zip file, open R/RStudio and type:
-install.packages('C:/Users/4dsoftware/REA_0.1.0.zip', repos = NULL, type = "win.binary")
+
+_install.packages('C:/Users/4dsoftware/REA_0.1.0.zip', repos = NULL, type = "win.binary")_
 
 ## Prerequisites
 
@@ -21,7 +22,9 @@ install.packages('rgl').
 To use REA, one can load it just as other packages using library(). Then load the data whose format should be strictly identical to the example data file. After that, simply run REA with the loaded data, and a draw parameter that controls plotters, 0 for no plot, 2 for 2-D plot, and 3 for 3-D plot. 
 
 _library('REA')_
+
 _data = read.csv('pentamidine_chlorpromazine.csv',header=F)_
+
 _ff = rea(data = data,draw = 2)_
 
 
