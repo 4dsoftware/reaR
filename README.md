@@ -1,6 +1,6 @@
 # reaR
 
-__The same REA, now with R__ 
+__THE SAME REA, NOW WITH R__ 
 
 This analytical tool enables the determination of drug combination effects (i.e., synergy, additivity, or antagonism) at local, regional, and global levels without knowing the inhibition mechanism of drugs. It is written in R, and packaged as a binary file. 
 
