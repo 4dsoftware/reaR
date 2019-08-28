@@ -2,7 +2,7 @@
 
 __THE SAME REA, NOW WITH R__ 
 
-This analytical tool enables the determination of drug combination effects (i.e., synergy, additivity, or antagonism) at local, regional, and global levels without knowing the inhibition mechanism of drugs. It is written in R, and packaged as a binary file. 
+This analytical tool enables the determination of drug combination effects (i.e., synergy, additivity, or antagonism) at local, regional, and global levels without knowing the inhibition mechanism of drugs. It is written in R, and packaged as a binary file. For more details please refer to the MATLAB version or our Bioinformatics paper. 
 
 ![github_page](https://user-images.githubusercontent.com/15344717/63895984-c6ee8380-c9be-11e9-80a8-14f0eb1b2a8a.jpg)
 
